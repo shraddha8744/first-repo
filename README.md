@@ -1,2 +1,2 @@
 # first-repo
-Author-shradddha Adlinge
+Author-shraddha Adlinge
